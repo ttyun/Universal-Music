@@ -1,0 +1,6 @@
+framework module Pods_FinalUniversalMusicProject {
+  umbrella header "Pods-FinalUniversalMusicProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
